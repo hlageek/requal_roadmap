@@ -3,8 +3,8 @@ title: "Requal Roadmap"
 author: "Radim Hladík"
 email: "hladik@flu.cas.cz"
 date: "2025-08-21"
-version: "0.0.1.9004"
-format: html
+date-modified: last-modified
+version: "0.0.1.9005"
 ---
 
 ## Roadmap for the [Requal](https://requal.app) CAQDAS [project](github.com/RE-QDA/requal)
