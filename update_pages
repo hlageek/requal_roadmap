@@ -34,7 +34,7 @@ if ! git commit -m "Automated update $(date +%Y%m%d%H%M)"; then
 fi
 
 # Push changes to the remote repository
-if ! git push origin master --force; then
+if ! git push origin main --force; then
     echo "Git push failed."
     exit 1
 fi
