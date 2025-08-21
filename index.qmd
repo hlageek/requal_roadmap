@@ -4,7 +4,7 @@ author: "Radim Hladík"
 email: "hladik@flu.cas.cz"
 date: "2025-08-21"
 date-modified: last-modified
-version: "0.0.1.9009"
+version: "0.0.1.9010"
 ---
 
 ## Roadmap for the [Requal](https://requal.app) CAQDAS [project](github.com/RE-QDA/requal)
@@ -32,6 +32,7 @@ Requal goes beyond the basic "code and retrieve" functionality.
 - [ ] Attributes - frontend
 - [ ] Cases - frontend
   - [ ] csv import for documents?
+  - [ ] cases within a document
 - [ ] External sources - PDF
 - [ ] Programatic database updates
 - [ ] Document organization
