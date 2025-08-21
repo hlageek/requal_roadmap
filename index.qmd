@@ -4,7 +4,7 @@ author: "Radim Hladík"
 email: "hladik@flu.cas.cz"
 date: "2025-08-21"
 date-modified: last-modified
-version: "0.0.1.9010"
+version: "0.0.1.9011"
 ---
 
 ## Roadmap for the [Requal](https://requal.app) CAQDAS [project](github.com/RE-QDA/requal)
@@ -79,6 +79,7 @@ Requal subprojects support its CAQDAS mission, but can branch in and out at vari
   - [X] Mac
   - [ ] Windows
   - [ ] Linux
+- [ ] Extensions via packaged modules
 
 ## Major features
 
@@ -110,3 +111,4 @@ A list of major features that should appear in Requal at some point. Mostly a st
 - [ ] Transcript editing
   - [ ] Raw text
   - [ ] Coded text
+- [ ] Word frequencies analysis
