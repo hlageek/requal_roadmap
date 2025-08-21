@@ -45,6 +45,7 @@ Requal leverages the infrastructure of cases and attributes for boosting its ana
 - [ ] Visualizations and reports
 - [ ] Quantitative content analysis
 - [ ] Enable attributes and cases in retrieval
+- [ ] Tags management tab
 
 ## Milestone 5 - Collaboration (approx. v3.0) 
 
@@ -101,7 +102,9 @@ A list of major features that should appear in Requal at some point. Mostly a st
   - [ ] Codebook
 - [ ] Code splitting
 - [ ] Turbo coding
-- [ ] Codings backlight
+  - [ ] Turbo uncoding?
+- [ ] In Vivo coding (sort of implemented via QuickTag)
+  - [ ] Codings backlight
 - [ ] Code editing from Annotation tab
 - [ ] Transcript editing
   - [ ] Raw text
