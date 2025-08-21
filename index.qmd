@@ -1,12 +1,13 @@
 ---
 title: "Requal Roadmap"
-author: "Your Name"
-date: "2023-10-05"
-version: "0.0.1.9001"
+author: "Radim Hladík"
+email: "hladik@flu.cas.cz"
+date: "2025-08-21"
+version: "0.0.1.9002"
 format: html
 ---
 
-# Requal Roadmap
+## Roadmap for the [Requal](https://requal.app) CAQDAS [project](github.com/RE-QDA/requal)
 
 This is a high level overview. It is meant to offer a general vision of where the development of Requal should be heading. The roadmap doesn't involve bug fixes, minor features, and UI tweaks.
 
@@ -58,13 +59,15 @@ Requal enlarges the scope of the data inputs and outputs.
 
 ## Subprojects
 
-> **Note**: Requal subprojects support its CAQDAS mission, but can branch in and out at various stages. Subprojects can be highly complex, but they generally do not affect the core development.
+::: {.callout-note}
+Requal subprojects support its CAQDAS mission, but can branch in and out at various stages. Subprojects can be highly complex, but they generally do not affect the core development.
+:::
 
 - [ ] Anonymization tools (requires min. v1.5)
 - [ ] Structured coding - basic TEI compatibility
 - [ ] AI-assistant
 - [ ] Standalone Electron installers
-  - [ ] Mac
+  - [X] Mac
   - [ ] Windows
   - [ ] Linux
 

@@ -1,58 +1,65 @@
 [
   {
-    "objectID": "requal_roadmap.html",
-    "href": "requal_roadmap.html",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Requal Roadmap",
     "section": "",
-    "text": "This is a high level overview. It is meant to offer a general vision of where the development of Requal should be heading. The roadmap doesn’t involve bug fixes, minor features, and UI tweaks.\n\n\nRequal has in place the full data infrastructure for advanced QDA and integrates into the larger CAQDAS ecosystem.\n\nREFI-QDA import export\nRQDA import\nAttributes - backend\nCases - backend\n\n\n\n\nRequal goes beyond the basic “code and retrieve” functionality.\n\nAttributes - frontend\nCases - frontend\nExternal sources - PDF\nProgramatic database updates\nDocument organization\nDocument editing\n\n\n\n\nRequal leverages the infrastructure of cases and attributes for boosting its analytical capabilities.\n\nImport surveys\nVisualizations and reports\nQuantitative content analysis\n\n\n\n\nRequal graduates from enabling collaboration to encouraging collaboration.\n\nDocker image for server version\nAdmin page\nAuthentication merged into Postgresql\nRevised documentation\nRevised permissions\nFull project back-up\n\n\n\n\nRequal enlarges the scope of the data inputs and outputs.\n\nMultimedia sources\nMixed-methods support via R-exported functions\n\n\n\n\n\nNote: Requal subprojects support its CAQDAS mission, but can branch in and out at various stages. Subprojects can be highly complex, but they generally do not affect the core development.\n\n\nAnonymization tools (requires min. v1.5)\nStructured coding - basic TEI compatibility\nAI-assistant\nStandalone Electron installers\n\nMac\nWindows\nLinux\n\n\n\n\n\nA list of major features that should appear in Requal at some point.\n\nMutually linked memos\nMemos attached to\n\nsegments\ncodings\ncodes\ndocuments\ncases\nattributes\n\nAutocode (deterministic)\n\ntranscript level\ndatabase level?\n\nRTL support\n\nAnnotation\nRetrieval\nOther UI sections?\n\nDouble-click editing\n\nCodebook\n\nCode splitting\nTurbo coding\nCodings backlight\nCode editing from Annotation tab\nTranscript editing\n\nRaw text\nCoded text"
+    "text": "This is a high level overview. It is meant to offer a general vision of where the development of Requal should be heading. The roadmap doesn’t involve bug fixes, minor features, and UI tweaks."
   },
   {
-    "objectID": "requal_roadmap.html#milestone-2-approx.-v1.5---infrastructure-in-place",
-    "href": "requal_roadmap.html#milestone-2-approx.-v1.5---infrastructure-in-place",
+    "objectID": "index.html#roadmap-for-the-requal-caqdas-project",
+    "href": "index.html#roadmap-for-the-requal-caqdas-project",
     "title": "Requal Roadmap",
     "section": "",
-    "text": "Requal has in place the full data infrastructure for advanced QDA and integrates into the larger CAQDAS ecosystem.\n\nREFI-QDA import export\nRQDA import\nAttributes - backend\nCases - backend"
+    "text": "This is a high level overview. It is meant to offer a general vision of where the development of Requal should be heading. The roadmap doesn’t involve bug fixes, minor features, and UI tweaks."
   },
   {
-    "objectID": "requal_roadmap.html#milestone-3-approx.-v2.0---beyond-basic",
-    "href": "requal_roadmap.html#milestone-3-approx.-v2.0---beyond-basic",
+    "objectID": "index.html#milestone-2-approx.-v1.5---infrastructure-in-place",
+    "href": "index.html#milestone-2-approx.-v1.5---infrastructure-in-place",
     "title": "Requal Roadmap",
-    "section": "",
-    "text": "Requal goes beyond the basic “code and retrieve” functionality.\n\nAttributes - frontend\nCases - frontend\nExternal sources - PDF\nProgramatic database updates\nDocument organization\nDocument editing"
+    "section": "Milestone 2 (approx. v1.5) - Infrastructure in place",
+    "text": "Milestone 2 (approx. v1.5) - Infrastructure in place\nRequal has in place the full data infrastructure for advanced QDA and integrates into the larger CAQDAS ecosystem.\n\nREFI-QDA import export\nRQDA import\nAttributes - backend\nCases - backend"
   },
   {
-    "objectID": "requal_roadmap.html#milestone-4-approx.-v2.5---better-analytics",
-    "href": "requal_roadmap.html#milestone-4-approx.-v2.5---better-analytics",
+    "objectID": "index.html#milestone-3-approx.-v2.0---beyond-basic",
+    "href": "index.html#milestone-3-approx.-v2.0---beyond-basic",
     "title": "Requal Roadmap",
-    "section": "",
-    "text": "Requal leverages the infrastructure of cases and attributes for boosting its analytical capabilities.\n\nImport surveys\nVisualizations and reports\nQuantitative content analysis"
+    "section": "Milestone 3 (approx. v2.0) - Beyond basic",
+    "text": "Milestone 3 (approx. v2.0) - Beyond basic\nRequal goes beyond the basic “code and retrieve” functionality.\n\nAttributes - frontend\nCases - frontend\nExternal sources - PDF\nProgramatic database updates\nDocument organization\nDocument editing"
   },
   {
-    "objectID": "requal_roadmap.html#milestone-5-approx.-v3.0---collaboration",
-    "href": "requal_roadmap.html#milestone-5-approx.-v3.0---collaboration",
+    "objectID": "index.html#milestone-4-approx.-v2.5---better-analytics",
+    "href": "index.html#milestone-4-approx.-v2.5---better-analytics",
     "title": "Requal Roadmap",
-    "section": "",
-    "text": "Requal graduates from enabling collaboration to encouraging collaboration.\n\nDocker image for server version\nAdmin page\nAuthentication merged into Postgresql\nRevised documentation\nRevised permissions\nFull project back-up"
+    "section": "Milestone 4 (approx. v2.5) - Better analytics",
+    "text": "Milestone 4 (approx. v2.5) - Better analytics\nRequal leverages the infrastructure of cases and attributes for boosting its analytical capabilities.\n\nImport surveys\nVisualizations and reports\nQuantitative content analysis"
   },
   {
-    "objectID": "requal_roadmap.html#milestone-6-approx.-v4.0---expanded-scope",
-    "href": "requal_roadmap.html#milestone-6-approx.-v4.0---expanded-scope",
+    "objectID": "index.html#milestone-5-approx.-v3.0---collaboration",
+    "href": "index.html#milestone-5-approx.-v3.0---collaboration",
     "title": "Requal Roadmap",
-    "section": "",
-    "text": "Requal enlarges the scope of the data inputs and outputs.\n\nMultimedia sources\nMixed-methods support via R-exported functions"
+    "section": "Milestone 5 (approx. v3.0) - Collaboration",
+    "text": "Milestone 5 (approx. v3.0) - Collaboration\nRequal graduates from enabling collaboration to encouraging collaboration.\n\nDocker image for server version\nAdmin page\nAuthentication merged into Postgresql\nRevised documentation\nRevised permissions\nFull project back-up"
   },
   {
-    "objectID": "requal_roadmap.html#subprojects",
-    "href": "requal_roadmap.html#subprojects",
+    "objectID": "index.html#milestone-6-approx.-v4.0---expanded-scope",
+    "href": "index.html#milestone-6-approx.-v4.0---expanded-scope",
     "title": "Requal Roadmap",
-    "section": "",
-    "text": "Note: Requal subprojects support its CAQDAS mission, but can branch in and out at various stages. Subprojects can be highly complex, but they generally do not affect the core development.\n\n\nAnonymization tools (requires min. v1.5)\nStructured coding - basic TEI compatibility\nAI-assistant\nStandalone Electron installers\n\nMac\nWindows\nLinux"
+    "section": "Milestone 6 (approx. v4.0) - Expanded scope",
+    "text": "Milestone 6 (approx. v4.0) - Expanded scope\nRequal enlarges the scope of the data inputs and outputs.\n\nMultimedia sources\nMixed-methods support via R-exported functions"
   },
   {
-    "objectID": "requal_roadmap.html#major-features",
-    "href": "requal_roadmap.html#major-features",
+    "objectID": "index.html#subprojects",
+    "href": "index.html#subprojects",
     "title": "Requal Roadmap",
-    "section": "",
-    "text": "A list of major features that should appear in Requal at some point.\n\nMutually linked memos\nMemos attached to\n\nsegments\ncodings\ncodes\ndocuments\ncases\nattributes\n\nAutocode (deterministic)\n\ntranscript level\ndatabase level?\n\nRTL support\n\nAnnotation\nRetrieval\nOther UI sections?\n\nDouble-click editing\n\nCodebook\n\nCode splitting\nTurbo coding\nCodings backlight\nCode editing from Annotation tab\nTranscript editing\n\nRaw text\nCoded text"
+    "section": "Subprojects",
+    "text": "Subprojects\n\n\n\n\n\n\nNote\n\n\n\nRequal subprojects support its CAQDAS mission, but can branch in and out at various stages. Subprojects can be highly complex, but they generally do not affect the core development.\n\n\n\nAnonymization tools (requires min. v1.5)\nStructured coding - basic TEI compatibility\nAI-assistant\nStandalone Electron installers\n\nMac\nWindows\nLinux"
+  },
+  {
+    "objectID": "index.html#major-features",
+    "href": "index.html#major-features",
+    "title": "Requal Roadmap",
+    "section": "Major features",
+    "text": "Major features\nA list of major features that should appear in Requal at some point.\n\nMutually linked memos\nMemos attached to\n\nsegments\ncodings\ncodes\ndocuments\ncases\nattributes\n\nAutocode (deterministic)\n\ntranscript level\ndatabase level?\n\nRTL support\n\nAnnotation\nRetrieval\nOther UI sections?\n\nDouble-click editing\n\nCodebook\n\nCode splitting\nTurbo coding\nCodings backlight\nCode editing from Annotation tab\nTranscript editing\n\nRaw text\nCoded text"
   }
 ]
