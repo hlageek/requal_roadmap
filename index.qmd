@@ -104,7 +104,7 @@ A list of major features that should appear in Requal at some point. Mostly a st
 - [ ] Turbo coding
   - [ ] Turbo uncoding?
 - [ ] In Vivo coding (sort of implemented via QuickTag)
-  - [ ] Codings backlight
+- [ ] Codings backlight
 - [ ] Code editing from Annotation tab
 - [ ] Transcript editing
   - [ ] Raw text

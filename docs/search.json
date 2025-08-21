@@ -60,6 +60,6 @@
     "href": "index.html#major-features",
     "title": "Requal Roadmap",
     "section": "Major features",
-    "text": "Major features\nA list of major features that should appear in Requal at some point. Mostly a stock of ideas with varied levels of priority.\n\nMutually linked memos\nMemos attached to\n\nsegments\ncodings\ncodes\ndocuments\ncases\nattributes\n\nAutocode (deterministic)\n\ntranscript level\ndatabase level?\n\nRTL support\n\nAnnotation\nRetrieval\nOther UI sections?\n\nDouble-click editing\n\nCodebook\n\nCode splitting\nTurbo coding\n\nTurbo uncoding?\n\nIn Vivo coding (sort of implemented via QuickTag)\n\nCodings backlight\n\nCode editing from Annotation tab\nTranscript editing\n\nRaw text\nCoded text"
+    "text": "Major features\nA list of major features that should appear in Requal at some point. Mostly a stock of ideas with varied levels of priority.\n\nMutually linked memos\nMemos attached to\n\nsegments\ncodings\ncodes\ndocuments\ncases\nattributes\n\nAutocode (deterministic)\n\ntranscript level\ndatabase level?\n\nRTL support\n\nAnnotation\nRetrieval\nOther UI sections?\n\nDouble-click editing\n\nCodebook\n\nCode splitting\nTurbo coding\n\nTurbo uncoding?\n\nIn Vivo coding (sort of implemented via QuickTag)\nCodings backlight\nCode editing from Annotation tab\nTranscript editing\n\nRaw text\nCoded text"
   }
 ]
