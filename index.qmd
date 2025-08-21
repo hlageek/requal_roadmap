@@ -38,6 +38,7 @@ Requal leverages the infrastructure of cases and attributes for boosting its ana
 - [ ] Import surveys
 - [ ] Visualizations and reports
 - [ ] Quantitative content analysis
+- [ ] Enable attributes and cases in retrieval
 
 ## Milestone 5 (approx. v3.0) - Collaboration
 
