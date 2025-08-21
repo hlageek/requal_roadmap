@@ -1,0 +1,98 @@
+---
+title: "Requal Roadmap"
+author: "Your Name"
+date: "2023-10-05"
+version: "0.0.1.9001"
+format: html
+---
+
+# Requal Roadmap
+
+This is a high level overview. It is meant to offer a general vision of where the development of Requal should be heading. The roadmap doesn't involve bug fixes, minor features, and UI tweaks.
+
+## Milestone 2 (approx. v1.5) - Infrastructure in place
+
+Requal has in place the full data infrastructure for advanced QDA and integrates into the larger CAQDAS ecosystem.
+
+- [ ] REFI-QDA import export
+- [ ] RQDA import 
+- [ ] Attributes - backend
+- [ ] Cases - backend
+
+## Milestone 3 (approx. v2.0) - Beyond basic
+
+Requal goes beyond the basic "code and retrieve" functionality.
+
+- [ ] Attributes - frontend
+- [ ] Cases - frontend
+- [ ] External sources - PDF
+- [ ] Programatic database updates
+- [ ] Document organization
+- [ ] Document editing
+
+## Milestone 4 (approx. v2.5) - Better analytics
+
+Requal leverages the infrastructure of cases and attributes for boosting its analytical capabilities.
+
+- [ ] Import surveys
+- [ ] Visualizations and reports
+- [ ] Quantitative content analysis
+
+## Milestone 5 (approx. v3.0) - Collaboration
+
+Requal graduates from enabling collaboration to encouraging collaboration.
+
+- [ ] Docker image for server version
+- [ ] Admin page
+- [ ] Authentication merged into Postgresql
+- [ ] Revised documentation
+- [ ] Revised permissions
+- [ ] Full project back-up
+
+## Milestone 6 (approx. v4.0) - Expanded scope
+
+Requal enlarges the scope of the data inputs and outputs.
+
+- [ ] Multimedia sources 
+- [ ] Mixed-methods support via R-exported functions
+
+## Subprojects
+
+> **Note**: Requal subprojects support its CAQDAS mission, but can branch in and out at various stages. Subprojects can be highly complex, but they generally do not affect the core development.
+
+- [ ] Anonymization tools (requires min. v1.5)
+- [ ] Structured coding - basic TEI compatibility
+- [ ] AI-assistant
+- [ ] Standalone Electron installers
+  - [ ] Mac
+  - [ ] Windows
+  - [ ] Linux
+
+## Major features
+
+A list of major features that should appear in Requal at some point.
+
+- [ ] Mutually linked memos
+- [ ] Memos attached to
+  - [ ] segments
+  - [ ] codings
+  - [ ] codes
+  - [ ] documents
+  - [ ] cases
+  - [ ] attributes
+- [ ] Autocode (deterministic)
+  - [ ] transcript level
+  - [ ] database level?
+- [ ] RTL support
+  - [ ] Annotation
+  - [ ] Retrieval
+  - [ ] Other UI sections?
+- [ ] Double-click editing
+  - [ ] Codebook
+- [ ] Code splitting
+- [ ] Turbo coding
+- [ ] Codings backlight
+- [ ] Code editing from Annotation tab
+- [ ] Transcript editing
+  - [ ] Raw text
+  - [ ] Coded text
