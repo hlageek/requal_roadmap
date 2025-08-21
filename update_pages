@@ -1,0 +1,42 @@
+#!/bin/bash
+
+# Get the current directory
+current_dir=$(pwd)
+
+# Check if _quarto.yml exists in the current directory
+if [ ! -f "$current_dir/_quarto.yml" ]; then
+    echo "No _quarto.yml file found in the current directory. Please ensure it's a valid Quarto project."
+    exit 1
+fi
+
+# Ensure Quarto is installed
+if ! command -v quarto &> /dev/null; then
+    echo "Quarto is not installed. Please install Quarto to proceed."
+    exit 1
+fi
+
+# Render the Quarto site
+if ! quarto render "$current_dir"; then
+    echo "Quarto render failed."
+    exit 1
+fi
+
+# Add all changes to git
+if ! git add --all; then
+    echo "Git add failed."
+    exit 1
+fi
+
+# Commit changes with a timestamp
+if ! git commit -m "Automated update $(date +%Y%m%d%H%M)"; then
+    echo "Git commit failed."
+    exit 1
+fi
+
+# Push changes to the remote repository
+if ! git push origin master --force; then
+    echo "Git push failed."
+    exit 1
+fi
+
+echo "Site rendered and pushed successfully."
