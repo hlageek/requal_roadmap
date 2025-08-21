@@ -3,15 +3,17 @@ title: "Requal Roadmap"
 author: "Radim Hladík"
 email: "hladik@flu.cas.cz"
 date: "2025-08-21"
-version: "0.0.1.9003"
+version: "0.0.1.9004"
 format: html
 ---
 
 ## Roadmap for the [Requal](https://requal.app) CAQDAS [project](github.com/RE-QDA/requal)
 
-This is a high level overview. It is meant to offer a general vision of where the development of Requal should be heading. The roadmap doesn't involve bug fixes, minor features, and UI tweaks.
+This is a high level overview. It is meant to offer a **general vision** of where the development of Requal should be heading. The roadmap doesn't involve bug fixes, minor features, and UI tweaks.
 
-## Milestone 2 (approx. v1.5) - Infrastructure in place
+The roadmap is subject to continuous change. Timelines cannot be given, as much depends on external factors such as funding, project commitments, or simply coding challenges we encouter. 
+
+## Milestone 2 - Infrastructure in place (approx. v1.5)
 
 Requal has in place the full data infrastructure for advanced QDA and integrates into the larger CAQDAS ecosystem.
 
@@ -20,7 +22,7 @@ Requal has in place the full data infrastructure for advanced QDA and integrates
 - [ ] Attributes - backend
 - [ ] Cases - backend
 
-## Milestone 3 (approx. v2.0) - Beyond basic
+## Milestone 3 - Beyond basic (approx. v2.0)
 
 Requal goes beyond the basic "code and retrieve" functionality.
 
@@ -31,7 +33,7 @@ Requal goes beyond the basic "code and retrieve" functionality.
 - [ ] Document organization
 - [ ] Document editing
 
-## Milestone 4 (approx. v2.5) - Better analytics
+## Milestone 4 - Better analytics (approx. v2.5) 
 
 Requal leverages the infrastructure of cases and attributes for boosting its analytical capabilities.
 
@@ -40,7 +42,7 @@ Requal leverages the infrastructure of cases and attributes for boosting its ana
 - [ ] Quantitative content analysis
 - [ ] Enable attributes and cases in retrieval
 
-## Milestone 5 (approx. v3.0) - Collaboration
+## Milestone 5 - Collaboration (approx. v3.0) 
 
 Requal graduates from enabling collaboration to encouraging collaboration.
 
@@ -51,7 +53,7 @@ Requal graduates from enabling collaboration to encouraging collaboration.
 - [ ] Revised permissions
 - [ ] Full project back-up
 
-## Milestone 6 (approx. v4.0) - Expanded scope
+## Milestone 6 - Expanded scope(approx. v4.0) 
 
 Requal enlarges the scope of the data inputs and outputs.
 
@@ -74,7 +76,7 @@ Requal subprojects support its CAQDAS mission, but can branch in and out at vari
 
 ## Major features
 
-A list of major features that should appear in Requal at some point.
+A list of major features that should appear in Requal at some point. Mostly a stock of ideas with varied levels of priority.
 
 - [ ] Mutually linked memos
 - [ ] Memos attached to
