@@ -4,7 +4,7 @@ author: "Radim Hladík"
 email: "hladik@flu.cas.cz"
 date: "2025-08-21"
 date-modified: last-modified
-version: "0.0.1.9008"
+version: "0.0.1.9009"
 ---
 
 ## Roadmap for the [Requal](https://requal.app) CAQDAS [project](github.com/RE-QDA/requal)
