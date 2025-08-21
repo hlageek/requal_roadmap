@@ -4,7 +4,7 @@ author: "Radim Hladík"
 email: "hladik@flu.cas.cz"
 date: "2025-08-21"
 date-modified: last-modified
-version: "0.0.1.9006"
+version: "0.0.1.9007"
 ---
 
 ## Roadmap for the [Requal](https://requal.app) CAQDAS [project](github.com/RE-QDA/requal)
@@ -22,6 +22,8 @@ Requal has in place the full data infrastructure for advanced QDA and integrates
 - [ ] Nested codes
 - [ ] Attributes - backend
 - [ ] Cases - backend
+- [ ] Multiple files upload
+- [ ] docx/odt text extraction
 
 ## Milestone 3 - Beyond basic (approx. v2.0)
 

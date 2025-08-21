@@ -18,7 +18,7 @@
     "href": "index.html#milestone-2---advanced-infrastructure-approx.-v1.5",
     "title": "Requal Roadmap",
     "section": "Milestone 2 - Advanced infrastructure (approx. v1.5)",
-    "text": "Milestone 2 - Advanced infrastructure (approx. v1.5)\nRequal has in place the full data infrastructure for advanced QDA and integrates into the larger CAQDAS ecosystem.\n\nREFI-QDA import export\nRQDA import via UI\nNested codes\nAttributes - backend\nCases - backend"
+    "text": "Milestone 2 - Advanced infrastructure (approx. v1.5)\nRequal has in place the full data infrastructure for advanced QDA and integrates into the larger CAQDAS ecosystem.\n\nREFI-QDA import export\nRQDA import via UI\nNested codes\nAttributes - backend\nCases - backend\nMultiple files upload\ndocx/odt text extraction"
   },
   {
     "objectID": "index.html#milestone-3---beyond-basic-approx.-v2.0",
