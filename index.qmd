@@ -112,3 +112,4 @@ A list of major features that should appear in Requal at some point. Mostly a st
   - [ ] Raw text
   - [ ] Coded text
 - [ ] Word frequencies analysis
+- [ ] Segments column in Annotation screen
