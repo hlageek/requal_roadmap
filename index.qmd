@@ -23,7 +23,7 @@ Requal has in place the full data infrastructure for advanced QDA and integrates
 - [ ] Attributes - backend
 - [ ] Cases - backend
 - [ ] Multiple files upload
-- [ ] docx/odt text extraction
+- [ ] docx/odt text extraction (or as an extension?)
 
 ## Milestone 3 - Beyond basic (approx. v2.0)
 
@@ -80,6 +80,13 @@ Requal subprojects support its CAQDAS mission, but can branch in and out at vari
   - [ ] Windows
   - [ ] Linux
 - [ ] Extensions via packaged modules
+  - [ ] Requal API
+    - [ ] Read tables
+    - [ ] Write to tables
+    - [ ] Some reactivity (e.g. find location in a document)
+  - [ ] SDK 
+   - [ ] Articles
+   - [ ] Template repo
 
 ## Major features
 
@@ -106,7 +113,7 @@ A list of major features that should appear in Requal at some point. Mostly a st
 - [ ] Turbo coding
   - [ ] Turbo uncoding?
 - [ ] In Vivo coding (sort of implemented via QuickTag)
-- [ ] Codings backlight
+- [X] Codings backlight
 - [ ] Code editing from Annotation tab
 - [ ] Transcript editing
   - [ ] Raw text
@@ -114,3 +121,11 @@ A list of major features that should appear in Requal at some point. Mostly a st
 - [ ] Word frequencies analysis
 - [ ] Segments column in Annotation screen
 - [ ] Highlight codes in a segment when part of a selection
+
+## Extensions
+
+- [ ] Wordcloud visualization
+- [ ] Code-Categories 2mode network visualization
+- [ ] Automated transcription of audio files
+- [ ] Export segments via officeR
+- [ ] Intercoder metrics
